@@ -22,7 +22,7 @@
         \textit{Department of Computer Science} \\
         \textit{Your Institution} \\
         City, Country \\
-        Email: author@example.com
+        Email:janeferdinant@gmail.com
     }
 }
 
